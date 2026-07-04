@@ -40,13 +40,6 @@ More coming soon as I get things upload-ready.
 
 <hr>
 
-## 📊 <b>GitHub Stats</b>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasRiemann&show_icons=true&theme=tokyonight" height="165px"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasRiemann&layout=compact&theme=tokyonight" height="165px"/>
-</p>
-
 <hr>
 
 ## 📫 <b>Contact</b>
